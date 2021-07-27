@@ -1,4 +1,4 @@
-.TH "man" 3 "26 July 2021" "0.01" "_printf man page"
+.TH "man" 3 "27 July 2021" "0.01" "_printf man page"
 .SH NAME
 _printf -- formatted output
 .SH SYNOPSIS
@@ -17,4 +17,4 @@ No known bugs
 .SH IMPROVEMENTS
 Implement width, percision, length specifiers for integers, and the other flags '-' & '0'
 .SH AUTHOR
-Sador Kassa, Meron Tadesse
+Asmamaw Yismaw, William Agyemang
